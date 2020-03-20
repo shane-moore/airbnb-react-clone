@@ -1,0 +1,16 @@
+.marker {
+  font: Roboto;
+  background-color: #ffffff;
+  font-weight: 700;
+  border: 1px double teal;
+  height: 20px;
+  line-height: 20px;
+  width: 48px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.marker.selected {
+  background-color: yellow;
+  border-color: black;
+}
